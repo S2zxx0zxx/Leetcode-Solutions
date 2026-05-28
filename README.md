@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0127-word-ladder) |
 ## Tree
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0127-word-ladder) |
 ## Backtracking
 |  |
 | ------- |
@@ -62,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
