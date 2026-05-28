@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0135-candy) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0127-word-ladder) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
