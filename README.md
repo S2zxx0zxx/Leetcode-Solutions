@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0135-candy) |
+| [0149-max-points-on-a-line](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0149-max-points-on-a-line](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 ## Backtracking
 |  |
 | ------- |
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0135-candy) |
+## Math
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
