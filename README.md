@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0087-scramble-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 ## Tree
 |  |
 | ------- |
@@ -49,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
