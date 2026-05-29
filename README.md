@@ -1,116 +1,210 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=F7C948&center=true&vCenter=true&width=600&lines=LeetCode+Solutions+%F0%9F%94%A5;by+Satyam+Kumar;Self-Taught.+Battle-Tested.+No+Shortcuts." alt="Typing SVG" />
+```
+ ██╗     ███████╗███████╗████████╗ ██████╗ ██████╗ ██████╗ ███████╗
+ ██║     ██╔════╝██╔════╝╚══██╔══╝██╔════╝██╔═══██╗██╔══██╗██╔════╝
+ ██║     █████╗  █████╗     ██║   ██║     ██║   ██║██║  ██║█████╗  
+ ██║     ██╔══╝  ██╔══╝     ██║   ██║     ██║   ██║██║  ██║██╔══╝  
+ ███████╗███████╗███████╗   ██║   ╚██████╗╚██████╔╝██████╔╝███████╗
+ ╚══════╝╚══════╝╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═════╝╚══════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=800&color=F7C948&center=true&vCenter=true&multiline=false&width=750&lines=⚡+Competitive+Programming+%7C+C%2B%2B+%2B+Python+%2B+SQL;🧠+No+Hints.+No+Editorials.+Raw+Problem+Solving.;🎯+Target%3A+Top+1%2C000+Global+%7C+Rating+2200%2B;🔥+Hard+Problems+Only.+Built+Different." alt="Typing SVG" />
 
 <br/>
 
-![Solved](https://img.shields.io/badge/Problems%20Solved-12%2B-F7C948?style=for-the-badge&logo=leetcode&logoColor=black)
-![Language](https://img.shields.io/badge/Primary-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Language](https://img.shields.io/badge/Also-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Target](https://img.shields.io/badge/Target-Top%201000%20Global-FF4500?style=for-the-badge&logo=target&logoColor=white)
-![Tracking](https://img.shields.io/badge/Auto--Synced-LeetHub%20v2-22C55E?style=for-the-badge&logo=github&logoColor=white)
-
-<br/>
-
-> **"I didn't take a course. I didn't follow a roadmap. I sat down, broke problems, rebuilt them, and kept going."**
-> — Satyam Kumar, Self-Taught Full Stack Engineer & AI Architect
+[![LeetCode](https://img.shields.io/badge/LeetCode-S2zxx0zxx-F7C948?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![Problems](https://img.shields.io/badge/Solved-12%2B_Problems-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white)](#problems-solved)
+[![Hard](https://img.shields.io/badge/Focus-Hard_Difficulty-EF4444?style=for-the-badge&logo=fireship&logoColor=white)](#-hard-problems)
+[![C++](https://img.shields.io/badge/C%2B%2B-Primary_Language-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#-stack)
+[![Python](https://img.shields.io/badge/Python-Secondary-3776AB?style=for-the-badge&logo=python&logoColor=white)](#-stack)
+[![SQL](https://img.shields.io/badge/SQL-Database_Problems-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#-database--sql)
+[![Sync](https://img.shields.io/badge/LeetHub_v2-Auto--Synced-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arunbhardwaj/LeetHub-2.0)
+[![Target](https://img.shields.io/badge/Global_Rank-Top_1%2C000-FF4500?style=for-the-badge&logo=target&logoColor=white)](#-goal--targets)
 
 </div>
 
 ---
 
-## 👤 About Me
+## 📌 What Is This Repo?
 
-I'm **Satyam Kumar** — a self-taught full-stack developer, indie hacker, and AI architect from **West Bengal, India**.
+> **A raw, unfiltered log of competitive programming grind.**
 
-No bootcamp. No paid courses. Just raw curiosity, relentless building, and a deep obsession with understanding how things actually work under the hood.
+This is not a curated "interview prep" repo. This is a **competitive sport** — every solution here is written under pressure, optimized for time/space complexity, and solved without editorial help. Auto-synced from LeetCode via **LeetHub v2** the moment a problem gets accepted.
 
-I've built and shipped:
-- 🧮 **FinCalc India** — A production-grade PWA with 14+ financial calculators, 29+ blog posts, GA4/GTM analytics, AdSense integration
-- 🤖 **Zenvy AI** — A multi-agent AI platform with Finance, Legal, Health & Career agents (Gemini 2.5 Flash backend)
-- 🏪 **GameMart** — A digital accounts storefront with full WhatsApp order flow
-- 🍹 **The Liquid Lounge** — A premium bar & restaurant brand with a zero-dependency PWA
-- 🎫 **FanGate** — A Gen Z sports ticket marketplace
-
-And now I'm going after **LeetCode** — not casually, but targeting **Top 1000 Global**.
+- 🗂️ **Auto-sequential file naming** — Every accepted solution is auto-added in `XXXX-problem-name/` format (e.g. `0085-maximal-rectangle/`), always sorted numerically. Zero manual effort. Zero gaps.
+- ⚡ **C++ first** — Chosen for raw speed, precise memory control, and competitive viability.
+- 🏁 **Contest-ready** — Not just problem grinding. Weekly + Biweekly contests. Consistent.
 
 ---
 
-## 🎯 Goal
+## 🗂️ Auto-Sequential File Naming System
 
-| Metric | Target |
-|---|---|
-| 🏆 Global Ranking | **Top 1,000** |
-| ⭐ Rating | **2,200+** |
-| 📦 Problems Solved | **500–800** |
-| 🗓️ Timeline | **6–12 months** |
-| 🏁 Contests | **Weekly + Biweekly (consistent)** |
+```
+When you solve problem #XXXX on LeetCode:
+  LeetHub v2 automatically creates →  XXXX-problem-name/
+                                           └── XXXX-problem-name.cpp   (or .py / .sql)
+
+Example:
+  ✅ Accept Problem 85  →  0085-maximal-rectangle/0085-maximal-rectangle.cpp
+  ✅ Accept Problem 127 →  0127-word-ladder/0127-word-ladder.cpp
+  ✅ Accept Problem 262 →  0262-trips-and-users/0262-trips-and-users.sql
+
+Result in repo (always sorted, always consistent):
+  0085-maximal-rectangle/
+  0087-scramble-string/
+  0115-distinct-subsequences/
+  0123-best-time-to-buy-and-sell-stock-iii/
+  0124-binary-tree-maximum-path-sum/
+  ...
+  0262-trips-and-users/
+```
+
+> 📌 **Zero-padded 4-digit prefix** ensures lexicographic = numeric sort in any file explorer, terminal, or GitHub UI. Problem #85 becomes `0085`, problem #1000 becomes `1000`. Always sequential. Always findable in under 2 seconds.
 
 ---
 
-## 🧠 Problems Solved
+## 🎯 Goal & Targets
 
-> Auto-synced via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0). All solutions written by me.
+<div align="center">
+
+| 🏆 Metric | 📍 Current | 🎯 Target | ⏱️ Timeline |
+|:----------|:----------:|:---------:|:-----------:|
+| Global Ranking | Climbing | **Top 1,000** | 6–12 months |
+| Contest Rating | Starting | **2,200+** | 6–12 months |
+| Problems Solved | **12+** | **500–800** | 12 months |
+| Hard Problems | **11** | **200+** | 12 months |
+| Contests Attended | Starting | **Weekly + Biweekly** | Ongoing |
+| Languages | C++, Python, SQL | Master all 3 | — |
+
+</div>
+
+---
+
+## ✅ Problems Solved
+
+> 🔄 Auto-synced via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) · All solutions written from scratch · No editorial references
+
+---
 
 ### 🔴 Hard Problems
 
-| # | Problem | Topic(s) | Language |
-|---|---------|----------|----------|
-| 85 | [Maximal Rectangle](./0085-maximal-rectangle/) | Array, Stack, DP, Matrix, Monotonic Stack | C++ |
-| 87 | [Scramble String](./0087-scramble-string/) | String, DP | C++ |
-| 115 | [Distinct Subsequences](./0115-distinct-subsequences/) | String, DP | C++ |
-| 123 | [Best Time to Buy and Sell Stock III](./0123-best-time-to-buy-and-sell-stock-iii/) | Array, DP | C++ |
-| 124 | [Binary Tree Maximum Path Sum](./0124-binary-tree-maximum-path-sum/) | Tree, DFS, Binary Tree | C++ |
-| 126 | [Word Ladder II](./0126-word-ladder-ii/) | String, Hash Table, BFS, Backtracking | C++ |
-| 127 | [Word Ladder](./0127-word-ladder/) | String, Hash Table, BFS | C++ |
-| 132 | [Palindrome Partitioning II](./0132-palindrome-partitioning-ii/) | String, DP | C++ |
-| 135 | [Candy](./0135-candy/) | Array, Greedy | C++ |
-| 149 | [Max Points on a Line](./0149-max-points-on-a-line/) | Array, Hash Table, Math, Geometry | C++ |
-| 154 | [Find Minimum in Rotated Sorted Array II](./0154-find-minimum-in-rotated-sorted-array-ii/) | Array, Binary Search | C++ |
+<details open>
+<summary><strong>Click to expand / collapse — 11 Hard Problems</strong></summary>
+
+<br/>
+
+| # | Problem | Core Approach | Time | Space | Lang |
+|:--|:--------|:-------------|:----:|:-----:|:----:|
+| [85](./0085-maximal-rectangle/) | Maximal Rectangle | Monotonic Stack + Histogram DP | O(n²) | O(n) | `C++` |
+| [87](./0087-scramble-string/) | Scramble String | 3D DP / Memoization | O(n⁴) | O(n³) | `C++` |
+| [115](./0115-distinct-subsequences/) | Distinct Subsequences | 2D DP Table | O(m·n) | O(m·n) | `C++` |
+| [123](./0123-best-time-to-buy-and-sell-stock-iii/) | Best Time to Buy & Sell III | State Machine DP | O(n) | O(1) | `C++` |
+| [124](./0124-binary-tree-maximum-path-sum/) | Binary Tree Max Path Sum | DFS + Global Max Tracking | O(n) | O(h) | `C++` |
+| [126](./0126-word-ladder-ii/) | Word Ladder II | BFS Layer + Backtracking DFS | O(N·M²) | O(N·M) | `C++` |
+| [127](./0127-word-ladder/) | Word Ladder | Bidirectional BFS | O(N·M²) | O(N·M) | `C++` |
+| [132](./0132-palindrome-partitioning-ii/) | Palindrome Partitioning II | DP + Manacher's Idea | O(n²) | O(n²) | `C++` |
+| [135](./0135-candy/) | Candy | Two-Pass Greedy | O(n) | O(n) | `C++` |
+| [149](./0149-max-points-on-a-line/) | Max Points on a Line | GCD Slope Hashing | O(n²) | O(n) | `C++` |
+| [154](./0154-find-minimum-rotated-sorted-ii/) | Find Min in Rotated Sorted II | Modified Binary Search | O(log n) avg | O(1) | `C++` |
+
+</details>
+
+---
 
 ### 🗄️ Database / SQL
 
-| # | Problem | Topic | Language |
-|---|---------|-------|----------|
-| 262 | [Trips and Users](./0262-trips-and-users/) | Database | SQL |
+<details open>
+<summary><strong>Click to expand / collapse — 1 SQL Problem</strong></summary>
+
+<br/>
+
+| # | Problem | Technique | Difficulty | Lang |
+|:--|:--------|:----------|:----------:|:----:|
+| [262](./0262-trips-and-users/) | Trips and Users | JOIN + GROUP BY + HAVING + Date Filter | 🔴 Hard | `SQL` |
+
+</details>
 
 ---
 
-## 🗂️ Topics Covered
+## 🧠 DSA Topics Coverage Map
 
 ```
-✅ Dynamic Programming       ✅ Monotonic Stack
-✅ Binary Search             ✅ Depth-First Search
-✅ Breadth-First Search      ✅ Backtracking
-✅ Greedy Algorithms         ✅ Hash Tables
-✅ Tree / Binary Tree        ✅ Matrix
-✅ Math & Geometry           ✅ Database / SQL
+╔══════════════════════════════════════════════════════════════════════╗
+║                    TOPICS COVERED SO FAR                            ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  ✅ Dynamic Programming        ██████████████████░░  STRONG         ║
+║  ✅ Monotonic Stack            ████████████░░░░░░░░  GOOD           ║
+║  ✅ Breadth-First Search       ██████████████░░░░░░  GOOD           ║
+║  ✅ Depth-First Search         ████████████░░░░░░░░  GOOD           ║
+║  ✅ Binary Search              ████████████░░░░░░░░  GOOD           ║
+║  ✅ Greedy Algorithms          ██████████░░░░░░░░░░  MODERATE       ║
+║  ✅ Backtracking               ██████████░░░░░░░░░░  MODERATE       ║
+║  ✅ Hash Tables                ████████████░░░░░░░░  GOOD           ║
+║  ✅ Tree / Binary Tree         ████████████░░░░░░░░  GOOD           ║
+║  ✅ Math & Geometry            ████████░░░░░░░░░░░░  BUILDING       ║
+║  ✅ Matrix Problems            ██████████░░░░░░░░░░  MODERATE       ║
+║  ✅ Database / SQL             ████████░░░░░░░░░░░░  BUILDING       ║
+║  🔄 Segment Trees              ░░░░░░░░░░░░░░░░░░░░  NEXT           ║
+║  🔄 Trie                       ░░░░░░░░░░░░░░░░░░░░  NEXT           ║
+║  🔄 Graph Algorithms           ░░░░░░░░░░░░░░░░░░░░  NEXT           ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 💡 How I Approach Problems
+## ⚙️ Problem-Solving Framework
 
+```cpp
+/**
+ * APPROACH TEMPLATE — applied to every problem
+ *
+ * STEP 1 — UNDERSTAND
+ *   → Read constraints carefully (n ≤ 10^5 ? → need O(n log n) or better)
+ *   → Identify input/output format, edge cases
+ *
+ * STEP 2 — BRUTE FORCE
+ *   → Establish O(n²) or O(2^n) baseline
+ *   → Confirm it gives correct output
+ *
+ * STEP 3 — OPTIMIZE
+ *   → Which pattern fits?
+ *   → DP? (overlapping subproblems)
+ *   → BFS/DFS? (graph traversal / shortest path)
+ *   → Binary Search? (monotonic answer space)
+ *   → Greedy? (local optimal = global optimal proof)
+ *   → Monotonic Stack? (next greater / histogram)
+ *
+ * STEP 4 — CODE (C++)
+ *   → Clean variable names, minimal overhead
+ *   → Use unordered_map over map where possible
+ *   → Avoid unnecessary copies (pass by reference)
+ *
+ * STEP 5 — TEST
+ *   → Empty input
+ *   → Single element
+ *   → Max constraints (TLE check)
+ *   → Negative numbers, duplicates, already sorted
+ *
+ * STEP 6 — ANALYZE
+ *   → State Time Complexity: O(?)
+ *   → State Space Complexity: O(?)
+ *   → Can it be further optimized?
+ */
 ```
-1. READ the problem carefully — don't rush to code
-2. THINK brute force first — understand what "naive" looks like
-3. OPTIMIZE — find the pattern (DP? BFS? Greedy? Binary Search?)
-4. CODE in C++ — fast, precise, no training wheels
-5. TEST edge cases — empty input, single element, max constraints
-6. ANALYZE time & space complexity before submitting
-```
-
-No copy-paste. No memorizing patterns blindly. I understand **why** the solution works.
 
 ---
 
 ## 🛠️ Tech Stack
 
-```cpp
-Language:    C++ (primary), Python (secondary), SQL
-Auto-sync:   LeetHub v2 → GitHub
-IDE:         GitHub Codespaces (mobile-first workflow)
-Tracking:    stats.json (LeetHub generated)
+```yaml
+Primary Language:   C++17
+Secondary Language: Python 3.x
+Database:           SQL (MySQL dialect on LeetCode)
+Auto-Sync Tool:     LeetHub v2 (Chrome Extension)
+IDE:                GitHub Codespaces
+Workflow:           Mobile-first · commit on AC
+Naming Convention:  XXXX-problem-name/ (zero-padded, auto-sorted)
 ```
 
 ---
@@ -120,62 +214,74 @@ Tracking:    stats.json (LeetHub generated)
 ```
 Leetcode-Solutions/
 │
-├── 0085-maximal-rectangle/
+├── 📂 0085-maximal-rectangle/
 │   └── 0085-maximal-rectangle.cpp
 │
-├── 0087-scramble-string/
+├── 📂 0087-scramble-string/
 │   └── 0087-scramble-string.cpp
 │
-├── 0115-distinct-subsequences/
-│   └── ...
+├── 📂 0115-distinct-subsequences/
+│   └── 0115-distinct-subsequences.cpp
 │
-├── ... (more problems being added continuously)
+├── 📂 0123-best-time-to-buy-and-sell-stock-iii/
+│   └── 0123-best-time-to-buy-and-sell-stock-iii.cpp
+│
+├── 📂 0124-binary-tree-maximum-path-sum/
+│   └── 0124-binary-tree-maximum-path-sum.cpp
+│
+├── 📂 0126-word-ladder-ii/
+│   └── 0126-word-ladder-ii.cpp
+│
+├── 📂 0127-word-ladder/
+│   └── 0127-word-ladder.cpp
+│
+├── 📂 0132-palindrome-partitioning-ii/
+│   └── 0132-palindrome-partitioning-ii.cpp
+│
+├── 📂 0135-candy/
+│   └── 0135-candy.cpp
+│
+├── 📂 0149-max-points-on-a-line/
+│   └── 0149-max-points-on-a-line.cpp
+│
+├── 📂 0154-find-minimum-in-rotated-sorted-array-ii/
+│   └── 0154-find-minimum-in-rotated-sorted-array-ii.cpp
+│
+├── 📂 0262-trips-and-users/
+│   └── 0262-trips-and-users.sql
 │
 ├── stats.json          ← LeetHub auto-generated stats
-└── README.md           ← You're reading it
+└── README.md           ← This file (auto-updated via LeetHub)
+```
+
+> 📌 **Naming Rule:** Every folder follows `XXXX-problem-slug/` format.
+> Zero-padded 4-digit prefix = problems always sort correctly in every environment — terminal, GitHub, IDE. No config needed.
+
+---
+
+## 📊 Overall Progress
+
+```
+ PROBLEMS SOLVED
+ ├── Hard    ████████████████████░░░░░░░░░░  11 / 200+ target
+ ├── Medium  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0  / 300+ target  [next focus]
+ └── Easy    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0  / 100+ target  [warmup set]
+
+ OVERALL     ████░░░░░░░░░░░░░░░░░░░░░░░░░░  12 / 500+ planned
+
+ RATING      ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  Working → 2200+
+ GLOBAL RANK ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  Target: Top 1,000
 ```
 
 ---
 
-## 🔥 Fun Facts
-
-- 🏗️ I learned **every major language and framework** through self-study — zero paid courses
-- 📱 My entire dev workflow is **mobile-first** — I build, review, and deploy from my phone
-- 🚀 I'm an **indie hacker** — I've shipped multiple live products while learning CP simultaneously
-- 💡 I believe in **understanding over memorizing** — if I can't explain it, I didn't learn it
-- 🎯 LeetCode is not just interview prep for me — it's a **competitive sport**
-
----
-
-## 📊 Progress Tracker
-
-```
-Problems: [████░░░░░░░░░░░░░░░░] 12 / 500+ planned
-Rating:   [█░░░░░░░░░░░░░░░░░░░] Working toward 2200+
-Rank:     [In progress → Target: Top 1,000 Global]
-```
-
----
-
-## 🤝 For Students & Developers
-
-This repo is **public and free** — use it however helps you.
-
-- 📖 **Students** — Study the approach before looking at code
-- 👨‍💻 **Developers** — See how real-world thinking maps to competitive programming
-- 🏁 **Contest participants** — Learn C++ patterns used in speed-optimized solutions
-
-> **One request:** Don't just copy. Try to understand the intuition first.
-
----
-
-## 📬 Connect With Me
+## 📬 Connect
 
 <div align="center">
 
-[![Twitter/X](https://img.shields.io/badge/@satzzxzxx-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/satzzxzxx)
-[![Instagram](https://img.shields.io/badge/__.satzzxzxx-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__.satzzxzxx)
-[![GitHub](https://img.shields.io/badge/S2zxx0zxx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S2zxx0zxx)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-@satzzxzxx-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/satzzxzxx)
+[![Instagram](https://img.shields.io/badge/Instagram-__.satzzxzxx-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__.satzzxzxx)
+[![GitHub](https://img.shields.io/badge/GitHub-S2zxx0zxx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S2zxx0zxx)
 
 </div>
 
@@ -183,8 +289,8 @@ This repo is **public and free** — use it however helps you.
 
 <div align="center">
 
-**Built with obsession. Solved with intent. Shared for the community.**
+**Solutions written from scratch · No hints · No editorials**
 
-*Auto-synced using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)*
+<sub>Auto-synced using <a href="https://github.com/arunbhardwaj/LeetHub-2.0">LeetHub v2</a> · Updated on every Accepted submission</sub>
 
 </div>
