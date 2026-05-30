@@ -301,6 +301,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -313,4 +314,8 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
+## Math
+|  |
+| ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 <!---LeetCode Topics End-->
