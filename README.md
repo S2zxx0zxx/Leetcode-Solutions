@@ -318,4 +318,12 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+## Hash Table
+|  |
+| ------- |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+## String
+|  |
+| ------- |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 <!---LeetCode Topics End-->
