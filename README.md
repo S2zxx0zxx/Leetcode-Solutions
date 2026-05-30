@@ -301,6 +301,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1340-jump-game-v) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3161-block-placement-queries](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
