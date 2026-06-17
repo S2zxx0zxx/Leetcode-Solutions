@@ -322,6 +322,7 @@ Leetcode-Solutions/
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -330,6 +331,7 @@ Leetcode-Solutions/
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Dynamic Programming
 |  |
@@ -340,4 +342,12 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1340-jump-game-v) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
