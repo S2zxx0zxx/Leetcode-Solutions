@@ -304,6 +304,7 @@ Leetcode-Solutions/
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1340-jump-game-v](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3161-block-placement-queries](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
@@ -342,6 +343,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1340-jump-game-v) |
+| [1833-maximum-ice-cream-bars](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Stack
 |  |
 | ------- |
@@ -350,4 +352,12 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0224-basic-calculator) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
