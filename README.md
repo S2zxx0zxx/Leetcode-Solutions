@@ -308,6 +308,7 @@ Leetcode-Solutions/
 | [1840-maximum-building-height](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [3161-block-placement-queries](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -331,6 +332,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## String
 |  |
 | ------- |
@@ -363,4 +365,24 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Simulation
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
