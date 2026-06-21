@@ -397,6 +397,7 @@ Leetcode-Solutions/
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0502-ipo) |
 | [1200-minimum-absolute-difference](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1340-jump-game-v) |
@@ -437,6 +438,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0502-ipo) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -463,6 +465,7 @@ Leetcode-Solutions/
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Graph Theory
 |  |
@@ -486,6 +489,7 @@ Leetcode-Solutions/
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -503,4 +507,8 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
