@@ -309,6 +309,7 @@ Leetcode-Solutions/
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0221-maximal-square](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [1200-minimum-absolute-difference](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -354,6 +355,7 @@ Leetcode-Solutions/
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [1340-jump-game-v](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 ## Sorting
 |  |
@@ -425,4 +427,8 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
