@@ -318,6 +318,7 @@ Leetcode-Solutions/
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0274-h-index) |
@@ -392,6 +393,7 @@ Leetcode-Solutions/
 | ------- |
 | [0088-merge-sorted-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0274-h-index) |
 | [1200-minimum-absolute-difference](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1340-jump-game-v) |
@@ -430,6 +432,7 @@ Leetcode-Solutions/
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Simulation
@@ -467,6 +470,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -489,4 +493,8 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
