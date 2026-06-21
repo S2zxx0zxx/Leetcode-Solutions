@@ -302,6 +302,7 @@ Leetcode-Solutions/
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [1200-minimum-absolute-difference](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -347,6 +348,7 @@ Leetcode-Solutions/
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
