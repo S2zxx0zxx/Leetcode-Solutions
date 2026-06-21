@@ -375,6 +375,7 @@ Leetcode-Solutions/
 | [0072-edit-distance](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Dynamic Programming
@@ -496,6 +497,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
@@ -527,4 +529,9 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+## Depth-First Search
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
