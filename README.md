@@ -364,12 +364,14 @@ Leetcode-Solutions/
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0224-basic-calculator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0055-jump-game) |
@@ -441,6 +443,7 @@ Leetcode-Solutions/
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
