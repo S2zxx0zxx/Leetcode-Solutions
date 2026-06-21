@@ -313,6 +313,7 @@ Leetcode-Solutions/
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0221-maximal-square](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0221-maximal-square) |
+| [0274-h-index](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0274-h-index) |
 | [1200-minimum-absolute-difference](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -368,6 +369,7 @@ Leetcode-Solutions/
 | ------- |
 | [0088-merge-sorted-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0274-h-index) |
 | [1200-minimum-absolute-difference](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -393,6 +395,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0274-h-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Linked List
 |  |
