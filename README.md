@@ -300,6 +300,7 @@ Leetcode-Solutions/
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -373,6 +374,7 @@ Leetcode-Solutions/
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0097-interleaving-string) |
@@ -534,6 +536,7 @@ Leetcode-Solutions/
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0212-word-search-ii) |
