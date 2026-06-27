@@ -316,6 +316,7 @@ Leetcode-Solutions/
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -390,6 +391,7 @@ Leetcode-Solutions/
 | [0030-substring-with-concatenation-of-all-words](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -545,6 +547,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -643,6 +646,7 @@ Leetcode-Solutions/
 | [0101-symmetric-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -651,5 +655,6 @@ Leetcode-Solutions/
 | [0101-symmetric-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
