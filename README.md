@@ -388,6 +388,7 @@ Leetcode-Solutions/
 | [0149-max-points-on-a-line](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1840-maximum-building-height](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
@@ -409,6 +410,7 @@ Leetcode-Solutions/
 | [0139-word-break](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -568,6 +570,7 @@ Leetcode-Solutions/
 | [0151-reverse-words-in-a-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
