@@ -322,6 +322,7 @@ Leetcode-Solutions/
 | [0134-gas-station](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -373,6 +374,7 @@ Leetcode-Solutions/
 | [0066-plus-one](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0224-basic-calculator) |
@@ -387,6 +389,7 @@ Leetcode-Solutions/
 | [0030-substring-with-concatenation-of-all-words](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -618,4 +621,8 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0322-coin-change) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
