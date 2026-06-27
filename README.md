@@ -319,6 +319,7 @@ Leetcode-Solutions/
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -376,6 +377,7 @@ Leetcode-Solutions/
 | [0013-roman-to-integer](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0139-word-break](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -396,6 +398,7 @@ Leetcode-Solutions/
 | [0072-edit-distance](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -419,6 +422,7 @@ Leetcode-Solutions/
 | [0120-triangle](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0221-maximal-square) |
@@ -571,6 +575,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0212-word-search-ii) |
@@ -595,4 +600,5 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
