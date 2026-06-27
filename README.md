@@ -369,6 +369,7 @@ Leetcode-Solutions/
 | [0009-palindrome-number](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
@@ -462,6 +463,7 @@ Leetcode-Solutions/
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 ## Greedy
 |  |
