@@ -313,6 +313,7 @@ Leetcode-Solutions/
 | [0049-group-anagrams](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0066-plus-one) |
@@ -489,6 +490,7 @@ Leetcode-Solutions/
 | ------- |
 | [0015-3sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
