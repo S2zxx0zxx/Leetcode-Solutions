@@ -330,6 +330,7 @@ Leetcode-Solutions/
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -563,6 +564,7 @@ Leetcode-Solutions/
 | [0054-spiral-matrix](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0221-maximal-square) |
 ## Design
@@ -620,6 +622,7 @@ Leetcode-Solutions/
 | [0124-binary-tree-maximum-path-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -655,6 +658,7 @@ Leetcode-Solutions/
 | [0112-path-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -720,4 +724,8 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
