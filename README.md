@@ -402,6 +402,7 @@ Leetcode-Solutions/
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0433-minimum-genetic-mutation](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [1189-maximum-number-of-balloons](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -427,6 +428,7 @@ Leetcode-Solutions/
 | [0224-basic-calculator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0392-is-subsequence](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [1189-maximum-number-of-balloons](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Dynamic Programming
@@ -683,6 +685,7 @@ Leetcode-Solutions/
 | [0226-invert-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
