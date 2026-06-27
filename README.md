@@ -372,6 +372,7 @@ Leetcode-Solutions/
 | [0066-plus-one](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
