@@ -383,6 +383,7 @@ Leetcode-Solutions/
 | [0067-add-binary](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -484,6 +485,7 @@ Leetcode-Solutions/
 | [0042-trapping-rain-water](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
