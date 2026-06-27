@@ -1,21 +1,17 @@
 class Solution {
 public:
-    int maxSum = INT_MIN;
-    
-    int maxPathSum(TreeNode* root) {
-        dfs(root);
-        return maxSum;
-    }
-    
-private:
-    int dfs(TreeNode* node) {
-        if (!node) return 0;
+    bool searchMatrix(vector<vector<int>>& matrix, int target) {
+        int m = matrix.size(), n = matrix[0].size();
+        int left = 0, right = m * n - 1;
         
-        int left = max(0, dfs(node->left));
-        int right = max(0, dfs(node->right));
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            int val = matrix[mid / n][mid % n];
+            if (val == target) return true;
+            else if (val < target) left = mid + 1;
+            else right = mid - 1;
+        }
         
-        maxSum = max(maxSum, node->val + left + right);
-        
-        return node->val + max(left, right);
+        return false;
     }
 };
