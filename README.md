@@ -314,6 +314,7 @@ Leetcode-Solutions/
 | [0063-unique-paths-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -423,6 +424,7 @@ Leetcode-Solutions/
 | [0058-length-of-last-word](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0127-word-ladder) |
@@ -583,6 +585,7 @@ Leetcode-Solutions/
 | [0054-spiral-matrix](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0212-word-search-ii) |
@@ -633,6 +636,7 @@ Leetcode-Solutions/
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
@@ -663,6 +667,7 @@ Leetcode-Solutions/
 | [0046-permutations](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 ## String Matching
 |  |
