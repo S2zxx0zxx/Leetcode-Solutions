@@ -620,6 +620,7 @@ Leetcode-Solutions/
 | [0129-sum-root-to-leaf-numbers](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -667,6 +668,7 @@ Leetcode-Solutions/
 | [0129-sum-root-to-leaf-numbers](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -682,6 +684,7 @@ Leetcode-Solutions/
 | [0129-sum-root-to-leaf-numbers](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
