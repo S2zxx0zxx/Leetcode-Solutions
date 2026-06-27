@@ -539,6 +539,7 @@ Leetcode-Solutions/
 | [0020-valid-parentheses](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0155-min-stack) |
@@ -727,6 +728,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0079-word-search](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
@@ -809,6 +811,7 @@ Leetcode-Solutions/
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
@@ -833,6 +836,7 @@ Leetcode-Solutions/
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
