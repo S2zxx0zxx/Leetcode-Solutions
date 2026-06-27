@@ -334,6 +334,7 @@ Leetcode-Solutions/
 | [0135-candy](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -392,6 +393,7 @@ Leetcode-Solutions/
 | [0067-add-binary](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -515,6 +517,7 @@ Leetcode-Solutions/
 | [0042-trapping-rain-water](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0224-basic-calculator) |
