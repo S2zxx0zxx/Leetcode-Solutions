@@ -598,6 +598,7 @@ Leetcode-Solutions/
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Backtracking
@@ -621,6 +622,7 @@ Leetcode-Solutions/
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0322-coin-change) |
 ## Geometry
@@ -630,9 +632,11 @@ Leetcode-Solutions/
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
