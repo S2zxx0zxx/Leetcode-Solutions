@@ -370,6 +370,7 @@ Leetcode-Solutions/
 | ------- |
 | [0012-integer-to-roman](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -384,6 +385,7 @@ Leetcode-Solutions/
 | [0013-roman-to-integer](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0072-edit-distance) |
@@ -577,5 +579,6 @@ Leetcode-Solutions/
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
