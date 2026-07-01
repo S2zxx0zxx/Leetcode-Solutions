@@ -374,6 +374,7 @@ Leetcode-Solutions/
 | [1833-maximum-ice-cream-bars](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -390,6 +391,7 @@ Leetcode-Solutions/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 ## Binary Indexed Tree
 |  |
@@ -599,6 +601,7 @@ Leetcode-Solutions/
 | [0295-find-median-from-data-stream](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0502-ipo) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Simulation
@@ -678,6 +681,7 @@ Leetcode-Solutions/
 | [0212-word-search-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0909-snakes-and-ladders](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -808,6 +812,7 @@ Leetcode-Solutions/
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Geometry
 |  |
 | ------- |
@@ -883,6 +888,7 @@ Leetcode-Solutions/
 | [0130-surrounded-regions](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
