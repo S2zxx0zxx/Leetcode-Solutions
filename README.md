@@ -464,6 +464,7 @@ Leetcode-Solutions/
 | [0290-word-pattern](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0763-partition-labels](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1189-maximum-number-of-balloons](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -502,6 +503,7 @@ Leetcode-Solutions/
 | [0392-is-subsequence](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0763-partition-labels](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -592,6 +594,7 @@ Leetcode-Solutions/
 | [0135-candy](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0502-ipo) |
+| [0763-partition-labels](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1833-maximum-ice-cream-bars](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Counting Sort
@@ -670,6 +673,7 @@ Leetcode-Solutions/
 | [0287-find-the-duplicate-number](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0763-partition-labels](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Graph Theory
 |  |
