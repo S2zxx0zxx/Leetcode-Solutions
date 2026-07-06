@@ -332,6 +332,7 @@ Leetcode-Solutions/
 | [0078-subsets](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -569,6 +570,7 @@ Leetcode-Solutions/
 | [0032-longest-valid-parentheses](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -739,6 +741,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Quickselect
 |  |
 | ------- |
