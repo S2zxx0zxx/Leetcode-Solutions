@@ -376,6 +376,7 @@ Leetcode-Solutions/
 | [0416-partition-equal-subset-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0502-ipo) |
+| [0560-subarray-sum-equals-k](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0909-snakes-and-ladders](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -466,6 +467,7 @@ Leetcode-Solutions/
 | [0290-word-pattern](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0560-subarray-sum-equals-k](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1189-maximum-number-of-balloons](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -739,6 +741,7 @@ Leetcode-Solutions/
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Monotonic Stack
 |  |
 | ------- |
