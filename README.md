@@ -429,6 +429,7 @@ Leetcode-Solutions/
 | [0189-rotate-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0224-basic-calculator) |
+| [0279-perfect-squares](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1840-maximum-building-height](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -530,6 +531,7 @@ Leetcode-Solutions/
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -833,6 +835,7 @@ Leetcode-Solutions/
 | [0207-course-schedule](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
