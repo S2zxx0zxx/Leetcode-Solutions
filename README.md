@@ -479,6 +479,7 @@ Leetcode-Solutions/
 | [0347-top-k-frequent-elements](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1189-maximum-number-of-balloons](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -522,6 +523,7 @@ Leetcode-Solutions/
 | [0394-decode-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -876,6 +878,7 @@ Leetcode-Solutions/
 | [0209-minimum-size-subarray-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Memoization
 |  |
 | ------- |
