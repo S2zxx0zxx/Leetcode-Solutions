@@ -454,6 +454,7 @@ Leetcode-Solutions/
 | [0036-valid-sudoku](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0127-word-ladder) |
@@ -500,6 +501,7 @@ Leetcode-Solutions/
 | [0067-add-binary](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
@@ -862,6 +864,7 @@ Leetcode-Solutions/
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Memoization
