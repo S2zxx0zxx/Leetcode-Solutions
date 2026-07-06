@@ -317,6 +317,7 @@ Leetcode-Solutions/
 | [0042-trapping-rain-water](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
@@ -423,6 +424,7 @@ Leetcode-Solutions/
 | [0009-palindrome-number](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0066-plus-one) |
@@ -737,6 +739,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
