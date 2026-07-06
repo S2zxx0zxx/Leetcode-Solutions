@@ -376,6 +376,7 @@ Leetcode-Solutions/
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0909-snakes-and-ladders](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1340-jump-game-v) |
@@ -709,6 +710,7 @@ Leetcode-Solutions/
 | [0212-word-search-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0909-snakes-and-ladders](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Design
 |  |
@@ -842,6 +844,7 @@ Leetcode-Solutions/
 | [0530-minimum-absolute-difference-in-bst](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Geometry
 |  |
