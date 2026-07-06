@@ -312,6 +312,7 @@ Leetcode-Solutions/
 | [0035-search-insert-position](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0046-permutations) |
@@ -437,6 +438,7 @@ Leetcode-Solutions/
 | [0017-letter-combinations-of-a-phone-number](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
