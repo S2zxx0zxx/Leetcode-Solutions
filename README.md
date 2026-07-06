@@ -518,6 +518,7 @@ Leetcode-Solutions/
 | [0242-valid-anagram](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0763-partition-labels](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0763-partition-labels) |
@@ -596,6 +597,7 @@ Leetcode-Solutions/
 | [0173-binary-search-tree-iterator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0394-decode-string) |
 ## Recursion
 |  |
 | ------- |
@@ -607,6 +609,7 @@ Leetcode-Solutions/
 | [0206-reverse-linked-list](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0394-decode-string) |
 ## Greedy
 |  |
 | ------- |
