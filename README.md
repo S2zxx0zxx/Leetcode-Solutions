@@ -361,6 +361,7 @@ Leetcode-Solutions/
 | [0228-summary-ranges](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -393,6 +394,7 @@ Leetcode-Solutions/
 | [0162-find-peak-element](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
@@ -650,6 +652,7 @@ Leetcode-Solutions/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -733,6 +736,7 @@ Leetcode-Solutions/
 | [0190-reverse-bits](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0287-find-the-duplicate-number](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Trie
 |  |
 | ------- |
