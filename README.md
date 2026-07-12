@@ -397,6 +397,7 @@ Leetcode-Solutions/
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -415,6 +416,7 @@ Leetcode-Solutions/
 | [2812-find-the-safest-path-in-a-grid](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -566,6 +568,7 @@ Leetcode-Solutions/
 | [0416-partition-equal-subset-sum](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1143-longest-common-subsequence](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1340-jump-game-v](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1340-jump-game-v) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -589,6 +592,7 @@ Leetcode-Solutions/
 | [1833-maximum-ice-cream-bars](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
@@ -632,6 +636,7 @@ Leetcode-Solutions/
 | [0763-partition-labels](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1833-maximum-ice-cream-bars](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -726,6 +731,7 @@ Leetcode-Solutions/
 | [0392-is-subsequence](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0763-partition-labels](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -734,6 +740,7 @@ Leetcode-Solutions/
 | [0210-course-schedule-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -820,6 +827,7 @@ Leetcode-Solutions/
 | [0191-number-of-1-bits](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/S2zxx0zxx/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
 |  |
 | ------- |
